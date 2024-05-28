@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunfit", "Sunfit\Sunfit.csproj", "{692C892F-179F-4EF7-936A-78A0AE0B498A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692C892F-179F-4EF7-936A-78A0AE0B498A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692C892F-179F-4EF7-936A-78A0AE0B498A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692C892F-179F-4EF7-936A-78A0AE0B498A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692C892F-179F-4EF7-936A-78A0AE0B498A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA4F9B9-8E72-4075-ABE6-3B4C4EC75E15}
+	EndGlobalSection
+EndGlobal
